@@ -12,7 +12,24 @@
   - [Gmail](mailto:sakibul.islam1605@gmail.com)
 - ⚡ Motto: "Turning data into a story that drives action."
 
-Explore my GitHub repositories for insights into my work in analytics, automation, and machine learning!
+
+# Technical Skills and Project Portfolio
+
+## Objective
+With expertise in data analysis, machine learning, and visualization, I transform complex datasets into strategic insights that drive impactful business decisions. Below is a summary of my technical skills organized by analytical functions, relevant tools, and specific project examples.
+
+| **Analytical Function**        | **Objective**                                                                                           | **Languages/Tools**                                             | **Associated Project**                                                                                                  |
+|--------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Big Data Analysis**          | Perform exploratory data analysis on large datasets for demographic and socioeconomic insights.        | PySpark, Python (Matplotlib, Seaborn)                            | [Exploratory Data Analysis on US Census Data](https://sakib1605.github.io/portfolio/#big-data-eda)                      |
+| **Data Visualization**         | Create interactive dashboards to uncover customer behavior and shopping trends.                        | Google Looker Studio, Excel                             | [Customer Shopping Trends Dashboard](https://sakib1605.github.io/portfolio/#customer-shopping-trends-dashboard)         |
+| **Spatial Temporal Analysis**  | Identify high-demand healthcare areas and optimize facility placement and emergency response.          | QGIS, R, Kernel Density Estimation (KDE)           | [Healthcare Accessibility Analysis](https://sakib1605.github.io/portfolio/#healthcare-accessibility-analysis)           |
+| **Machine Learning**           | Extract insights from textual data and develop content-based recommendation systems                 | Python (scikit-learn, NLP), TfidfVectorizer                      | [Movie Insights Analysis](https://sakib1605.github.io/portfolio/#movie-insights-analysis)                               |
+| **Neural Networks**            | Develop image-based classification systems to diagnose plant diseases from visual symptom analysis.    | Gemini-Vision-Pro, Python (Keras, TensorFlow)                    | [Symptom-Driven Plant Disease Classification](https://sakib1605.github.io/portfolio/#plant-disease-classification)      |
+| **Statistical Learning**       | Apply statistical modeling to predict health outcomes and identify risk factors.                      | R, Logistic Regression, Decision Trees                           | [Diabetes Prediction and Analysis](https://sakib1605.github.io/portfolio/#pima-indian-diabetes-case-study)              |
+| **Predictive Modeling**        | Build predictive models to predict movie ratings.              | Python (scikit-learn, XGBoost),                               | [Movie Ratings Prediction](https://sakib1605.github.io/portfolio/#movie-insights-analysis)                              |
+
+
+
 <!--
 **Sakib1605/Sakib1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
