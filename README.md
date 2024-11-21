@@ -5,9 +5,7 @@
 - 💻 Data Analyst with a passion for transforming raw data into actionable insights.
 - 🎓 Master’s in Data Science
 - Microsoft Certified: Power BI Data Analyst Associate
-- 🔭 Currently working on data-driven projects that simplify complex processes and enhance decision-making.
 - 🌱 Continuously learning advanced analytics, machine learning, and data visualization techniques.
-- 💡 Interested in collaborations that push the boundaries of data-driven development.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohammad-sakib-islam-w/)
 - ⚡ Motto: "Turning data into a story that drives action."
 
