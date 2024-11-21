@@ -12,7 +12,6 @@
 
 # Technical Skills and Project Portfolio
 
-## Objective
 With expertise in data analysis, machine learning, and visualization, I transform complex datasets into strategic insights that drive impactful business decisions. Below is a summary of my technical skills organized by analytical functions, relevant tools, and specific project examples.
 
 | **Core Competency**        | **Objective**                                                                                           | **Languages/Tools**                                             | **Associated Project**                                                                                                  |
