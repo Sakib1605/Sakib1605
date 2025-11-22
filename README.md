@@ -1,13 +1,13 @@
 ## 👋 Hello there, I’m Mohammad!
 
 
-- 🌐 Visit my [portfolio website](https://sakib1605.github.io/) for an in-depth look at my projects.
-- 💻 Data Analyst with a passion for transforming raw data into actionable insights.
-- 🎓 Master’s in Data Science
+- 💻 Data Engineer & Data Analyst skilled in building ETL pipelines, cloud workflows, and business-focused analytics.
+- 🎓 Master’s in Data Science — University of Guelph
+- ☁️ Experienced with Azure Data Factory, Azure Databricks, Delta Lake, Synapse, and ADLS Gen2, building scalable ETL and data integration workflows.
+- 📊 Strong in Power BI, Tableau, and Excel VBA, turning complex datasets into clear visual insights.
+- 📈 Background in machine learning, predictive modeling, and statistical analysis including regression, clustering, A/B testing, and forecasting.
 - Microsoft Certified: Power BI Data Analyst Associate ([PL-300](https://learn.microsoft.com/en-gb/users/mohammadsakibulislam-1418/credentials/ed0b38a895e17370?ref=https%3A%2F%2Fwww.linkedin.com%2F))
-- 🌱 Continuously learning advanced analytics, machine learning, and data visualization techniques.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohammad-sakib-islam-w/)
-- ⚡ Motto: "Turning data into a story that drives action."
 
 
 # Technical Skills and Project Portfolio
