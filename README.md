@@ -11,13 +11,13 @@
 
 
 
-# Technical Skills and Project Portfolio
+# **Technical Skills and Project Portfolio**
 
-- Programming & Development: Python (Pandas, NumPy, PySpark), R, SQL, .NET Core, HTML, JavaScript, JSON, Git.
-- Database & Cloud Technologies: Azure Data Factory, Azure Databricks, Delta Lake, Azure Synapse Analytics, ADLS Gen2, SQL Server, MySQL, ETL pipelines, data integration, and data warehousing.
-- AI Tools & Frameworks: LLMs (GPT, Llama), LangChain, LangGraph, Pinecone vectorDB, ChromaDB, HuggingFace embeddings, OpenAI/Anthropic APIs, RAG pipelines, agentic AI frameworks.
-- Machine Learning & Statistical Modeling: Data mining, data preprocessing, feature engineering, regression and classification models, predictive modeling, A/B testing, cross-validation, model evaluation, and time-series forecasting.
-- Data Visualization: Power BI, Tableau, Excel (VBA, Power Query, Lookup Functions, Pivot Tables), Looker Studio.
+- **Programming & Development:** Python (Pandas, NumPy, PySpark), R, SQL, .NET Core, HTML, JavaScript, JSON, Git.
+- **Database & Cloud Technologies:** Azure Data Factory, Azure Databricks, Delta Lake, Azure Synapse Analytics, ADLS Gen2, SQL Server, MySQL, ETL pipelines, data integration, and data warehousing.
+- **AI Tools & Frameworks:** LLMs (GPT, Llama), LangChain, LangGraph, Pinecone vectorDB, ChromaDB, HuggingFace embeddings, OpenAI/Anthropic APIs, RAG pipelines, agentic AI frameworks.
+- **Machine Learning & Statistical Modeling:** Data mining, data preprocessing, feature engineering, regression and classification models, predictive modeling, A/B testing, cross-validation, model evaluation, and time-series forecasting.
+- **Data Visualization:** Power BI, Tableau, Excel (VBA, Power Query, Lookup Functions, Pivot Tables), Looker Studio.
 
 Below is a summary of my technical skills organized by analytical functions, relevant tools, and specific project examples.
 
